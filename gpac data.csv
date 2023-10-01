@@ -1,48 +1,64 @@
-﻿Market,GPAC,Count of Name,Sorting GPAC
-Austria,EOY 2021,2,1
-Austria,EOY 2022,4,3
-Austria,MY 2022,1,2
-Belgium,EOY 2021,1,1
-Belgium,EOY 2022,1,3
-Belgium,MY 2023,4,4
-Brasil,EOY 2021,1,1
-Brasil,EOY 2022,2,3
-China,EOY 2021,1,1
-China,MY 2023,1,4
-Czechia,EOY 2021,1,1
-Czechia,EOY 2022,1,3
-France,EOY 2021,2,1
-France,EOY 2022,2,3
-France,MY 2023,1,4
-India,EOY 2022,1,3
-India,MY 2022,1,2
-Italy,EOY 2021,3,1
-Italy,EOY 2022,2,3
-Italy,MY 2023,1,4
-Japan,EOY 2021,5,1
-Japan,EOY 2022,6,3
-Japan,MY 2022,8,2
-Japan,MY 2023,7,4
-Netherlands,MY 2022,1,2
-Netherlands,MY 2023,2,4
-Saudi Arabia,EOY 2021,9,1
-Saudi Arabia,EOY 2022,17,3
-Saudi Arabia,MY 2022,5,2
-Saudi Arabia,MY 2023,7,4
-Singapore,MY 2022,1,2
-South Korea,EOY 2022,1,3
-Spain,EOY 2021,1,1
-Spain,MY 2022,1,2
-Sweden,EOY 2021,1,1
-Switzerland,EOY 2021,4,1
-Switzerland,EOY 2022,4,3
-Switzerland,MY 2023,1,4
-Thailand,EOY 2021,1,1
-Thailand,MY 2022,1,2
-Turkey,EOY 2021,1,1
-Turkey,EOY 2022,1,3
-United Kingdom,EOY 2021,3,1
-United Kingdom,EOY 2022,3,3
-United Kingdom,MY 2023,1,4
-United States,EOY 2021,1,1
-United States,EOY 2022,3,3
+﻿Market,GPAC,Count of Name,Sorting GPAC,Decision
+Austria,EOY 2021,2,1,Cohort move
+Austria,EOY 2022,4,3,Promotion
+Austria,MY 2022,1,2,Cohort move
+Belgium,EOY 2021,1,1,Promotion
+Belgium,EOY 2022,1,3,Promotion
+Belgium,MY 2023,1,4,Cohort move
+Belgium,MY 2023,3,4,Promotion
+Brasil,EOY 2021,1,1,Promotion
+Brasil,EOY 2022,1,3,Cohort move
+Brasil,EOY 2022,1,3,Promotion
+China,EOY 2021,1,1,Promotion
+China,MY 2023,1,4,Cohort move
+Czechia,EOY 2021,1,1,Promotion
+Czechia,EOY 2022,1,3,Cohort move
+France,EOY 2021,2,1,Cohort move
+France,EOY 2022,1,3,Cohort move
+France,EOY 2022,1,3,Promotion
+France,MY 2023,1,4,Promotion
+India,EOY 2022,1,3,Promotion
+India,MY 2022,1,2,Cohort move
+Italy,EOY 2021,3,1,Promotion
+Italy,EOY 2022,1,3,Cohort move
+Italy,EOY 2022,1,3,Promotion
+Italy,MY 2023,1,4,Cohort move
+Japan,EOY 2021,3,1,Cohort move
+Japan,EOY 2021,2,1,Promotion
+Japan,EOY 2022,4,3,Cohort move
+Japan,EOY 2022,2,3,Promotion
+Japan,MY 2022,6,2,Cohort move
+Japan,MY 2022,2,2,Promotion
+Japan,MY 2023,5,4,Cohort move
+Japan,MY 2023,2,4,Promotion
+Netherlands,MY 2022,1,2,Cohort move
+Netherlands,MY 2023,2,4,Promotion
+Saudi Arabia,EOY 2021,8,1,Cohort move
+Saudi Arabia,EOY 2021,1,1,Promotion
+Saudi Arabia,EOY 2022,12,3,Cohort move
+Saudi Arabia,EOY 2022,5,3,Promotion
+Saudi Arabia,MY 2022,4,2,Cohort move
+Saudi Arabia,MY 2022,1,2,Promotion
+Saudi Arabia,MY 2023,3,4,Cohort move
+Saudi Arabia,MY 2023,4,4,Promotion
+Singapore,MY 2022,1,2,Promotion
+South Korea,EOY 2022,1,3,Cohort move
+Spain,EOY 2021,1,1,Cohort move
+Spain,MY 2022,1,2,Promotion
+Sweden,EOY 2021,1,1,Promotion
+Switzerland,EOY 2021,3,1,Cohort move
+Switzerland,EOY 2021,1,1,Promotion
+Switzerland,EOY 2022,2,3,Cohort move
+Switzerland,EOY 2022,2,3,Promotion
+Switzerland,MY 2023,1,4,Cohort move
+Thailand,EOY 2021,1,1,Cohort move
+Thailand,MY 2022,1,2,Cohort move
+Turkey,EOY 2021,1,1,Cohort move
+Turkey,EOY 2022,1,3,Cohort move
+United Kingdom,EOY 2021,2,1,Cohort move
+United Kingdom,EOY 2021,1,1,Promotion
+United Kingdom,EOY 2022,3,3,Cohort move
+United Kingdom,MY 2023,1,4,Cohort move
+United States,EOY 2021,1,1,Promotion
+United States,EOY 2022,2,3,Cohort move
+United States,EOY 2022,1,3,Promotion
